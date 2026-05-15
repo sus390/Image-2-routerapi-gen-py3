@@ -1,0 +1,30 @@
+
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Output images
+outputs/
+*.png
+*.jpg
+*.jpeg
+*.webp
+
+# Local environment files
+.env
+.env.local
+
+# IDE/editor
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db

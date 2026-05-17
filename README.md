@@ -1,5 +1,5 @@
 
-##GPT Image-2 使用中转api生成/修改图片工具
+# GPT Image-2 使用中转api生成/修改图片工具
 
 一个本地网页工具，用于通过 OpenAI 兼容接口调用图片生成和图片修改接口。
 因为cherrystudio没找到指定image2图片生成尺寸的途径，于是就用gpt-5.5 vibecoding了一个。只在arch下使用过。
